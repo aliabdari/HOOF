@@ -4,5 +4,6 @@ These methods are discussed in [CVPR2015 paper](https://www.cv-foundation.org/op
 We have two main approaches for feature extraction from images or videos for machine learning tasks.<br/>
 1. One of them is Handcrafted features that we use different methods like SIFT, SURF, etc. to obtain useful features. 
 2. And the other is deep learning based approaches that we use the output of deep neural networks layers as our features.<br/>
+
 For some tasks like action recognition, motion information is so essential. Using optical flows for motion tracking is a common method.
 
