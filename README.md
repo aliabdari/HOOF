@@ -9,4 +9,6 @@ For some tasks like action recognition, motion information is so essential. Usin
 
 For better representation, we can use different types of Histograms. The usual approaches, considering directions of optical flows and the magnitude of them.
 
+For example, we can consider four intervals of directions (0-90,90-180,180-270,270-360). Then we consider an array by the size of four. First index for optical flows between 0-90 and the second index for optical flow between 90-180 and son on. So we count the number of optical flows in each direction and increase the number of associated cell in the mentioned array.
+
 
