@@ -7,3 +7,6 @@ We have two main approaches for feature extraction from images or videos for mac
 
 For some tasks like action recognition, motion information is so essential. Using optical flows for motion tracking is a common method.
 
+For better representation, we can use different types of Histograms. The usual approaches, considering directions of optical flows and the magnitude of them.
+
+
